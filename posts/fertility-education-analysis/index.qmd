@@ -1,0 +1,9 @@
+---
+title: "Analysis of GAPMINDER Data"
+author: "Olaitan Elihou Adje"
+date: "2024-12-25"
+categories: [code, analysis, R, Python]
+image: "image.jpg"
+---
+
+This was a project using GAPMINDER data. You can find the project [here](https://olaitan-elihou.github.io/fertility_rate_world/){.external target="_blank"}

@@ -1,0 +1,9 @@
+---
+title: "ODeSPoL data processing"
+format: html
+author: "Olaitan Elihou Adje"
+date: "2024-12-20"
+categories: [stata, analysis]
+---
+
+ODeSPoL is a program to observe the state and dynamics of the school population in the department of Borgou (North Bénin) since May 2017. It is an annual data collection operation in all primary schools in all school districts in the communes of the department of Borgou, with a complementary component of observing cases of pregnancy in the school environment, in particular in secondary schools and colleges of all types.

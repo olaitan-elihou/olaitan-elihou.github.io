@@ -1,0 +1,11 @@
+---
+format: html
+bibliography: my_publications.bib
+nocite: |
+  @*
+---
+
+Scientific articles, books, book chapters, and reports published or co-authored are listed below:
+
+::: {#refs}
+:::
